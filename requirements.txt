@@ -1,0 +1,12 @@
+FastAPI
+Uvicorn
+youtube-comment-downloader
+Pandas
+Polars
+Seaborn
+Matplotlib
+WordCloud
+Pillow
+FPDF
+Transformers
+Markdown
