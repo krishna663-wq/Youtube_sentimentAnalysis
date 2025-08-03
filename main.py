@@ -32,8 +32,8 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # Constants
 GEMINI_MODEL = "gemini-2.0-flash"
-API_KEY = "**************************"  
-HF_TOKEN = "**************************"  
+API_KEY = "AIzaSyCR9VnCOiSdxWbsQD-7E53nWJ4gzDBXMF8"
+HF_TOKEN = "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"
 
 @app.get("/", response_class=HTMLResponse)
 async def read_root(request: Request):
